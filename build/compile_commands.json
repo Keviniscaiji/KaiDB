@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/workspaces/buzzdb-2/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb-2/src/include -isystem /workspaces/buzzdb-2/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb-2/build/vendor/gflags/include -isystem /workspaces/buzzdb-2/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/external_sort/external_sort.cc.o -c /workspaces/buzzdb-2/src/external_sort/external_sort.cc",
+  "file": "/workspaces/buzzdb-2/src/external_sort/external_sort.cc"
+},
+{
+  "directory": "/workspaces/buzzdb-2/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb-2/src/include -isystem /workspaces/buzzdb-2/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb-2/build/vendor/gflags/include -isystem /workspaces/buzzdb-2/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/storage/posix_file.cc.o -c /workspaces/buzzdb-2/src/storage/posix_file.cc",
+  "file": "/workspaces/buzzdb-2/src/storage/posix_file.cc"
+},
+{
+  "directory": "/workspaces/buzzdb-2/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb-2/src/include -isystem /workspaces/buzzdb-2/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb-2/build/vendor/gflags/include -isystem /workspaces/buzzdb-2/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/storage/test_file.cc.o -c /workspaces/buzzdb-2/src/storage/test_file.cc",
+  "file": "/workspaces/buzzdb-2/src/storage/test_file.cc"
+},
+{
+  "directory": "/workspaces/buzzdb-2/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb-2/src/include -isystem /workspaces/buzzdb-2/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb-2/build/vendor/gflags/include -isystem /workspaces/buzzdb-2/build/vendor/rapidjson/src/rapidjson_src/include -isystem /workspaces/buzzdb-2/build/vendor/gtm/gmock/include  -fPIC -Wall -Wextra -Werror -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/external_sort_tool.dir/test/tool/external_sort/external_sort_tool.cc.o -c /workspaces/buzzdb-2/test/tool/external_sort/external_sort_tool.cc",
+  "file": "/workspaces/buzzdb-2/test/tool/external_sort/external_sort_tool.cc"
+},
+{
+  "directory": "/workspaces/buzzdb-2/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb-2/src/include -isystem /workspaces/buzzdb-2/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb-2/build/vendor/gflags/include -isystem /workspaces/buzzdb-2/build/vendor/rapidjson/src/rapidjson_src/include -isystem /workspaces/buzzdb-2/build/vendor/gtm/gmock/include  -fPIC -Wall -Wextra -Werror -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/external_sort_test.dir/test/unit/external_sort/external_sort_test.cc.o -c /workspaces/buzzdb-2/test/unit/external_sort/external_sort_test.cc",
+  "file": "/workspaces/buzzdb-2/test/unit/external_sort/external_sort_test.cc"
+},
+{
+  "directory": "/workspaces/buzzdb-2/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb-2/src/include -isystem /workspaces/buzzdb-2/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb-2/build/vendor/gflags/include -isystem /workspaces/buzzdb-2/build/vendor/rapidjson/src/rapidjson_src/include -isystem /workspaces/buzzdb-2/build/vendor/gtm/gmock/include  -fPIC -Wall -Wextra -Werror -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/external_sort_test_valgrind.dir/test/unit/external_sort/external_sort_test.cc.o -c /workspaces/buzzdb-2/test/unit/external_sort/external_sort_test.cc",
+  "file": "/workspaces/buzzdb-2/test/unit/external_sort/external_sort_test.cc"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror -O3 -DNDEBUG CMakeFiles/external_sort_tool.dir/test/tool/external_sort/external_sort_tool.cc.o -o tool/external_sort_tool  libbuzzdb.a vendor/gtm/gtest/lib/libgtest.a vendor/gtm/gmock/lib/libgmock.a vendor/gflags/lib/libgflags.a 
